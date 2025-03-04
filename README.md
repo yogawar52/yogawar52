@@ -43,7 +43,7 @@ solid cube_corner
       vertex 0.0 1.0 0.0
     endloop
   endfacet
-  facet normal 0.577 0.577 0.577
+  facet normal 0.577 0.6577 0.577
     outer loop
       vertex 1.0 0.0 0.0
       vertex 0.0 1.0 0.0
