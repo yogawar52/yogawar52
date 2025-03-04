@@ -14,6 +14,12 @@ Hi, I'm Yoga. You might recognize me as GitHub's mascot.
 
 
 <details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+  
 <summary>My top languages</summary>
 
 | Rank | THING-TO-RANK |
