@@ -4,11 +4,12 @@
 
 ## About me
 Hi, I'm Yoga.
-<details>
+
 ---
 > Everything you can do, i can do better.
 — Yor
-  
+
+<details>  
 <summary>My Currently learning</summary>
 
 | Rank | THING-TO-RANK |
