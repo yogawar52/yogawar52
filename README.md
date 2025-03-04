@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1>🌱 I’m currently learning PHP programming language</h1>
-📫 How to reach me: yogayudapratama@gmail.com
+📫 How to reach me: <a href="mailto:yogayudapratama@gmail.com">Email Me</a>
 
 <!--
 **yogawar52/yogawar52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
