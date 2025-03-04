@@ -21,22 +21,36 @@ Hi, I'm Yoga.
 </details>
 
 ```stl
-solid chibi_head
-  facet normal 0.0 0.0 1.0
+solid simple_head
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex -1.0 -1.0 0.0
+      vertex 1.0 -1.0 0.0
+      vertex 1.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex -1.0 -1.0 0.0
+      vertex 1.0 1.0 0.0
+      vertex -1.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.0 -1.0 1.0
     outer loop
       vertex -1.0 -1.0 0.0
       vertex 1.0 -1.0 0.0
       vertex 0.0 0.0 1.5
     endloop
   endfacet
-  facet normal 0.0 1.0 1.0
+  facet normal 1.0 0.0 1.0
     outer loop
       vertex 1.0 -1.0 0.0
       vertex 1.0 1.0 0.0
       vertex 0.0 0.0 1.5
     endloop
   endfacet
-  facet normal -1.0 1.0 1.0
+  facet normal 0.0 1.0 1.0
     outer loop
       vertex 1.0 1.0 0.0
       vertex -1.0 1.0 0.0
@@ -50,7 +64,7 @@ solid chibi_head
       vertex 0.0 0.0 1.5
     endloop
   endfacet
-endsolid chibi_head
+endsolid simple_head
 ```
 
 <!--
