@@ -2,6 +2,11 @@
 <h1>🌱 I’m currently learning PHP programming language</h1>
 <h2>📫 How to reach me: <a href="mailto:yogayudapratama@gmail.com">yogayudapratama@gmail.com</a></h2>
 <h3>📞 +628551480000</h3>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 <!--
 **yogawar52/yogawar52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
