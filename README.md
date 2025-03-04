@@ -1,7 +1,7 @@
 ## Hi there 👋
-🌱 I’m currently learning PHP programming language
-🤔 I’m looking for help with my programming skills
-📫 How to reach me: yogayudapratama@gmail.com
+##🌱 I’m currently learning PHP programming language
+##🤔 I’m looking for help with my programming skills
+##📫 How to reach me: yogayudapratama@gmail.com
 
 <!--
 **yogawar52/yogawar52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
