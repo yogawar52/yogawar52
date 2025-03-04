@@ -10,13 +10,20 @@
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm Yoga. You might recognize me as GitHub's mascot.
+
+
+<details>
+<summary>My top languages</summary>
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|   PHP         |
 |     2|   Laravel     |
 |     3|   Filament    |
+
+</details>
+
 
 <!--
 **yogawar52/yogawar52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
