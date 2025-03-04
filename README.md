@@ -1,5 +1,4 @@
 ## Hi there 👋 im from 🇮🇩 I’m currently learning PHP programming language
-<h2>📫 How to reach me: <a href="mailto:yogayudapratama@gmail.com">yogayudapratama@gmail.com</a></h2>
 <h3>📞 +628551480000</h3>
 
 ## About me
@@ -7,6 +6,7 @@ Hi, I'm Yoga.
 
 ---
 > Everything you can do, i can do better.
+
 — Yor
 
 <details>  
